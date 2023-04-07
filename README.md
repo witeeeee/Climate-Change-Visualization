@@ -1,0 +1,3 @@
+# Climate Change Visualization and Analysis 
+
+This project aims to develop a comprehensive set of data visualizations and analytical conclusions that enable users to explore the impacts of climate change on the planet. The project will leverage a variety of data sources, like temperature and climate data, to create interactive visualizations that allow users to explore climate change trends over time and across different regions. By providing accessible and intuitive visualizations and analysis, this project will help individuals and policymakers better understand the complex and urgent issue of climate change, and develop strategies to mitigate its impacts.
